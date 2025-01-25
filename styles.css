@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.main{
+	width:400px;
+	display:flex;
+	gap:10px;
+	
+}
+.moviePic{
+	height:300px;
+	width:200px;
+	opacity:90%;
+	position:absolute;
+	
+}
+.movieDetail{
+	position: relative;
+	left:200px;
+	text-wrap:wrap;
+	/* display:flex; */
+	margin-left:10px;
+	text-align:center;
+	
+	
+}
